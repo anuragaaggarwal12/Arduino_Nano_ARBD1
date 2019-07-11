@@ -1,3 +1,3 @@
 # Automation
 
-![](circuit_layout.jpg =200x200)
+![](circuit_layout.jpg)
